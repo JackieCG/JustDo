@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "algo", "algo.vcxproj", "{A72AB702-A5EB-49B8-B16F-EDD85BB94528}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "algo2", "..\algo2\algo2.vcxproj", "{27829313-21CD-41B2-B3FE-62F3E626DE97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A72AB702-A5EB-49B8-B16F-EDD85BB94528}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A72AB702-A5EB-49B8-B16F-EDD85BB94528}.Debug|Win32.Deploy.0 = Debug|Win32
+		{A72AB702-A5EB-49B8-B16F-EDD85BB94528}.Release|Win32.ActiveCfg = Release|Win32
+		{A72AB702-A5EB-49B8-B16F-EDD85BB94528}.Release|Win32.Build.0 = Release|Win32
+		{27829313-21CD-41B2-B3FE-62F3E626DE97}.Debug|Win32.ActiveCfg = Debug|Win32
+		{27829313-21CD-41B2-B3FE-62F3E626DE97}.Debug|Win32.Build.0 = Debug|Win32
+		{27829313-21CD-41B2-B3FE-62F3E626DE97}.Release|Win32.ActiveCfg = Release|Win32
+		{27829313-21CD-41B2-B3FE-62F3E626DE97}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
